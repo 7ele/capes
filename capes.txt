@@ -1,1 +1,1 @@
-tele URL
+tele https://raw.githubusercontent.com/7ele/capes/refs/heads/main/assets/skull.png
